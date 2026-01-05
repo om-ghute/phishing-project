@@ -1,0 +1,11 @@
+Dear User,
+
+Your account has been suspended due to suspicious activity.
+Please verify your account immediately by clicking the link below:
+
+http://secure-login-paypal.com/update-account
+
+If you do not act now, your account will be permanently closed.
+
+Thank you,
+Support Team
